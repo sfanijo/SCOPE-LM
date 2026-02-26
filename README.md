@@ -3,4 +3,4 @@ Official Repository for SCOPE-LM: Single Cell Context-Conditioned and Pathway-En
 
 ----------------------
 
-To be published soon.
+Codes, Datasets, and Results will be publicly available soon.
